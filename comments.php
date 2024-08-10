@@ -1,6 +1,6 @@
 <?php
 /**
-fgddhfsfgdrdhgfghghhfgjv
+fgddrfhhfsfgdrdhgfghghhfgjv
  * The template for displaying comments
  *
  * @package Mehndi Tattoo Artist

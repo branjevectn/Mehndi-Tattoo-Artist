@@ -1,6 +1,6 @@
 <?php
 /**
-gvnbb
+gvnbbg
  * The template for displaying comments
  *
  * @package Mehndi Tattoo Artist

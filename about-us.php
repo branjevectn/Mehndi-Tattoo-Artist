@@ -1,4 +1,4 @@
-<?php sadg
+<?php sd
 /**
  * Template part for displaying service section
  *

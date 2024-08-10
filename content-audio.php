@@ -1,4 +1,4 @@
-<?php gfdfffrf
+<?php gfdffgdsfrf
 /**
  * Template part for displaying posts
  *

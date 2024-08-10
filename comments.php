@@ -1,5 +1,5 @@
 <?php
-/**
+/*f
 xfggsdfhhdddghefsfggg
  * The template for displaying comments
  *

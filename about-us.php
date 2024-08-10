@@ -1,4 +1,4 @@
-<?php gcdcff
+<?php 
 /**
  * Template part for displaying service section
  *

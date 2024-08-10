@@ -1,5 +1,5 @@
 <?php 
-fgh
+
 /**
  * Template part for displaying service section
  *

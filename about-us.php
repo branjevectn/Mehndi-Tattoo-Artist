@@ -1,5 +1,5 @@
 <?php 
-cxcrds
+cxfscrds
 /**
  * Template part for displaying service section
  *

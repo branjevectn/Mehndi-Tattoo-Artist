@@ -1,4 +1,4 @@
-<?php vd
+<?php 
 /**
  * Template part for displaying posts
  *

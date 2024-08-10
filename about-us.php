@@ -1,4 +1,4 @@
-<?php fghfdfgyfsdgdf Ha du haffg
+<?php fghfdfgyfsdggf
 /**
  * Template part for displaying service section
  *

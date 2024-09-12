@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// dx bc cb cx
+// dx bc cb cx g
 func myMessage() {
   fmt.Println("I just got executed!")
 }

@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// qwa
+// qwas
 func myMessage() {
   fmt.Println("I just got executed!")
 }

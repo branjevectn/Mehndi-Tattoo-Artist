@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// ghhfggbhjkjhvfhghfhccn
+// hbc
 func myMessage() {
   fmt.Println("I just got executed!")
 }
